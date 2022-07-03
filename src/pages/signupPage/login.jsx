@@ -46,14 +46,18 @@ function Login() {
               </div>
 
               <button className="small-btn btn-secondary">Sign in</button>
+              <button className="small-btn btn-secondary">
+                Login with test credentials
+              </button>
               <div>
-                <p className="h5-text">Don't have an account?
-                <Link to="/Signup">
-                <span className="switch-span accent-color-text">
-                  {" "}
-                  SignUp Here
-                </span>
-              </Link>
+                <p className="h5-text">
+                  Don't have an account?
+                  <Link to="/Signup">
+                    <span className="switch-span accent-color-text">
+                      {" "}
+                      SignUp Here
+                    </span>
+                  </Link>
                 </p>
               </div>
             </form>
