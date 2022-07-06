@@ -2,4 +2,9 @@
 @import url("./css/base/typography.css");
 @import url("./css/base/utilities.css");
 @import url("./css/layout/nav.css");
+@import url("./css/layout/sidebar.css");
 @import url("./pages/signupPage/signup.css");
+@import url("./pages/home/home.css");
+@import url("./css/layout/footer.css");
+@import url("./css/layout/suggestionbox.css");
+@import url("./css/layout/followerSuggestion.css");

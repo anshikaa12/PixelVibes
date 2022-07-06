@@ -1,0 +1,31 @@
+.suggestion-box {
+  background-color: var(--bg-color);
+  width: 30%;
+  position: sticky;
+  top: 10rem;
+  right: 0;
+  overflow-y: auto;
+  margin-bottom: 0rem;
+  border-radius: 1rem;
+  margin: 1rem 1rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.profile-sec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+  gap: 1rem;
+  border: 1px solid var(--primary-color);
+  background-color: var(--text-color);
+  border-radius: 1rem;
+}
+
+.seeall {
+  margin-left: auto;
+}

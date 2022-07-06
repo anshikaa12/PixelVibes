@@ -1,0 +1,17 @@
+.follower {
+  gap: 1rem;
+  width: 100%;
+  border: 2px solid var(--text-color);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.follower-info {
+  justify-items: flex-start;
+  align-items: flex-start;
+  gap: 5px;
+}
+.follow-suggestion {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}

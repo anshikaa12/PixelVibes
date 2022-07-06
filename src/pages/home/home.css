@@ -1,0 +1,47 @@
+.homepage {
+  background-color: var(--text-color);
+}
+
+.main-home-sec {
+  width: 70%;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: var(--bg-color);
+  border-radius: 1rem;
+  align-items: center;
+  gap: 1rem;
+}
+.post-sec {
+  width: 100%;
+  background-color: var(--bg-color);
+  border: 1px solid var(--secondary-color);
+  padding: 1rem;
+  margin: 0 1rem;
+  border-radius: 1rem;
+}
+
+.add-post-card {
+  background-color: var(--text-color);
+  border: 1px solid var(--primary-color);
+  width: 80%;
+  border-radius: 1rem;
+}
+.header-text {
+  gap: 1rem;
+  align-items: center;
+}
+.post {
+  width: 80%;
+  background-color: var(--text-color);
+  justify-content: space-evenly;
+}
+.card-content {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+}
+.card-icon {
+  color: var(--primary-color);
+}
+.text-color {
+  color: var(--secondary-color);
+}
